@@ -1,0 +1,22 @@
+.topbar
+{
+  background-color: blue;
+}
+.topbar .logo a
+{
+  font-weight: 500;
+  font-size: 25px;
+  color:white;
+  text-decoration: none;
+}
+
+.topbar .toggle
+{
+  text-align: right;
+}
+.topbar .toggle a
+{
+  font-size: 1em;
+  color: white;
+  display: inline-block;
+}
